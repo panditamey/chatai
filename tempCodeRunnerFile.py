@@ -1,0 +1,1 @@
+Consider om and vidya as sutonomous agents and they are talking a long conversation)Om : Hello Vidya!\n Vidya : Hello Namaste Om\n Om:
